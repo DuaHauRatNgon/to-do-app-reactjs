@@ -1,0 +1,26 @@
+.ToDoItem {
+    display: flex;
+    justify-content: space-between;
+    width: 96%;
+    margin: 7px 0px;
+    border-bottom: 1px solid #ccc;
+}
+
+span {
+    cursor: pointer;
+}
+
+
+
+/* .completed {
+    text-decoration: line-through;
+} */
+
+.status-true {
+    text-decoration: line-through;
+    opacity: 0.8;
+}
+
+.status-false {
+    text-decoration: none;
+}

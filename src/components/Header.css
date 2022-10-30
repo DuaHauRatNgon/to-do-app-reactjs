@@ -1,0 +1,12 @@
+header{
+    /* background-color: white; */
+    color: white;
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 30px;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    cursor: default;
+    /* filter: blur(4px); */
+}
